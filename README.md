@@ -14,4 +14,5 @@ loadType:APPEND, anchorPosition:null, firstItem:null, lastItem:null
 ```
 
 related issue: https://issuetracker.google.com/issues/381126154
+
 proposed behavior fix: https://issuetracker.google.com/issues/391414839
