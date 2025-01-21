@@ -12,3 +12,5 @@ request loadKey:null, count:90
 loadType:PREPEND, anchorPosition:null, firstItem:null, lastItem:null
 loadType:APPEND, anchorPosition:null, firstItem:null, lastItem:null
 ```
+
+related issue: https://issuetracker.google.com/issues/381126154
